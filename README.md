@@ -13,5 +13,4 @@ Running the script is really simple! Just open a terminal in the folder where yo
 ```python number_guessing.py```
 
 # Authour
-Name: Evangeline Maddela
-Github: evangelinemaddela
+Evangeline Maddela
